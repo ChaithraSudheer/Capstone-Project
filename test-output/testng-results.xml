@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-13T11:28:19 IST" name="Default suite" finished-at="2024-06-13T11:28:37 IST" duration-ms="17907">
+    <groups>
+    </groups>
+    <test started-at="2024-06-13T11:28:19 IST" name="Default test" finished-at="2024-06-13T11:28:37 IST" duration-ms="17907">
+      <class name="scenario2PageObjectModel.TestCase.AdminTest">
+        <test-method is-config="true" signature="setupBrowser()[pri:0, instance:scenario2PageObjectModel.TestCase.AdminTest@59662a0b]" started-at="2024-06-13T11:28:19 IST" name="setupBrowser" finished-at="2024-06-13T11:28:27 IST" duration-ms="7370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method is-config="true" signature="pagesetup()[pri:0, instance:scenario2PageObjectModel.TestCase.AdminTest@59662a0b]" started-at="2024-06-13T11:28:27 IST" name="pagesetup" finished-at="2024-06-13T11:28:29 IST" duration-ms="2038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pagesetup -->
+        <test-method signature="verifymenu()[pri:1, instance:scenario2PageObjectModel.TestCase.AdminTest@59662a0b]" started-at="2024-06-13T11:28:29 IST" name="verifymenu" finished-at="2024-06-13T11:28:31 IST" duration-ms="1898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymenu -->
+        <test-method signature="verifySearchByUserName()[pri:2, instance:scenario2PageObjectModel.TestCase.AdminTest@59662a0b]" started-at="2024-06-13T11:28:31 IST" name="verifySearchByUserName" finished-at="2024-06-13T11:28:34 IST" duration-ms="3330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchByUserName -->
+        <test-method signature="verifySearchByUserRole()[pri:3, instance:scenario2PageObjectModel.TestCase.AdminTest@59662a0b]" started-at="2024-06-13T11:28:34 IST" name="verifySearchByUserRole" finished-at="2024-06-13T11:28:36 IST" duration-ms="2345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchByUserRole -->
+        <test-method signature="verifySearchByUserStatus()[pri:4, instance:scenario2PageObjectModel.TestCase.AdminTest@59662a0b]" started-at="2024-06-13T11:28:36 IST" name="verifySearchByUserStatus" finished-at="2024-06-13T11:28:37 IST" duration-ms="843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchByUserStatus -->
+      </class> <!-- scenario2PageObjectModel.TestCase.AdminTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
